@@ -161,7 +161,7 @@ setState(s=>({...s,[e.target.name]:e.target.value}))
                                return <div key={i} className='card border-0 shadow p-lg-4 p-md-3'>
                                 <div className="col-12 text-center">
                                   
-                                  <img src="" alt="Profile img" className='img-fluid rounded-circle border p-5 rounded-circle' />
+                                  <img src="" alt="Profile-img" className='img-fluid rounded-circle border p-5 rounded-circle' />
                                 </div>
                                 <div className="row mt-3">
                                   <div className="col-5">
