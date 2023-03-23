@@ -17,10 +17,10 @@ import {toast} from 'react-toastify'
 
      switch(type){
 
-        case 'succes':
-            toast.success(msg, options)
+        case 'success':
+           return toast.success(msg, options)
         case 'error':
-            toast.error(msg, options)
+           return toast.error(msg, options)
         default:
             // toast(msg, options)
      }
