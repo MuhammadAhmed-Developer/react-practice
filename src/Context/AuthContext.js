@@ -104,30 +104,7 @@ export default function
         <h1>hy</h1>
         <h1>hy</h1>
         <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
-        <h1>hy</h1>
+        <h1>hvy</h1>
     </div>
   )
 }
